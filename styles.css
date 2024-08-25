@@ -189,6 +189,7 @@ nav {
 .main2-pic img {
     height: 400px;
     width: 400px;
+    border-radius: 40px;
 }
 
 .main2-text {
@@ -246,6 +247,11 @@ nav {
 .cat-gif{
     margin-top: 2rem;
 }
+
+.cat-gif img{
+    border-radius: 40px;
+}
+
 .main-4{
     height: 70vh;
     padding-top: 14vh;
